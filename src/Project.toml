@@ -1,0 +1,3 @@
+[deps]
+QuantumCollocation = "0dc23a59-5ffb-49af-b6bd-932a8ae77adf"
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
