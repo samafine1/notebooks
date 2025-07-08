@@ -1394,7 +1394,7 @@ version = "2.11.2"
     Enzyme = "7da242da-08ed-463a-9acd-ee780be4f1d9"
 
 [[deps.QuantumCollocation]]
-deps = ["DirectTrajOpt", "Distributions", "ExponentialAction", "JLD2", "Libdl", "LinearAlgebra", "NamedTrajectories", "PiccoloQuantumObjects", "Random", "Reexport", "SparseArrays", "TestItemRunner", "TestItems", "TrajectoryIndexingUtils"]
+deps = ["DirectTrajOpt", "Distributions", "ExponentialAction", "ForwardDiff", "JLD2", "Libdl", "LinearAlgebra", "NamedTrajectories", "PiccoloQuantumObjects", "Random", "Reexport", "SparseArrays", "TestItemRunner", "TestItems", "TrajectoryIndexingUtils"]
 path = "../../QuantumCollocation.jl"
 uuid = "0dc23a59-5ffb-49af-b6bd-932a8ae77adf"
 version = "0.8.0"
